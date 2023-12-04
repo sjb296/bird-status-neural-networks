@@ -1,0 +1,104 @@
+speccode,english_name,prev_status
+132.0,quail,nc
+155.0,stone-curlew,nc
+285.0,tawny owl,nc
+48.0,whooper swan,nc
+152.0,oystercatcher,nc
+114.0,osprey,nc
+57.0,brent goose,nc
+154.0,avocet,nc
+97.0,honey-buzzard,nc
+56.0,barnacle goose,nc
+153.0,black-winged stilt,na
+104.0,marsh harrier,nc
+53.0,greylag goose,nc
+168.0,grey plover,nc
+109.0,sparrowhawk,g
+,bean goose,nc
+199.0,bar-tailed godwit,nc
+100.0,white-tailed eagle,r
+50.0,pink-footed goose,nc
+217.0,turnstone,nc
+116.0,kestrel,nc
+81.0,eider,nc
+172.0,knot,nc
+454.0,rook,g
+94.0,red-breasted merganser,g
+184.0,curlew sandpiper,nc
+,shorelark,nc
+61.0,shelduck,nc
+173.0,sanderling,nc
+389.0,sedge warbler,g
+72.0,garganey,nc
+192.0,snipe,nc
+417.0,yellow-browed warbler,na
+74.0,shoveler,nc
+215.0,common sandpiper,nc
+423.0,willow warbler,nc
+66.0,gadwall,nc
+212.0,green sandpiper,nc
+,common whitethroat,g
+64.0,wigeon,nc
+205.0,spotted redshank,nc
+401.0,dartford warbler,nc
+69.0,mallard,nc
+208.0,greenshank,nc
+441.0,short-toed treecreeper,nc
+71.0,pintail,nc
+206.0,redshank,nc
+340.0,wren,g
+68.0,teal,nc
+213.0,wood sandpiper,nc
+339.0,dipper,nc
+10.0,black-necked grebe,nc
+232.0,black-headed gull,nc
+376.0,song thrush,r
+269.0,stock dove,nc
+226.0,mediterranean gull,nc
+377.0,redwing,r
+270.0,woodpigeon,g
+235.0,common gull,nc
+429.0,pied flycatcher,r
+289.0,nightjar,nc
+236.0,lesser black-backed gull,nc
+352.0,black redstart,r
+137.0,spotted crake,nc
+1282.0,yellow-legged gull,nc
+,common redstart,nc
+142.0,moorhen,g
+1283.0,caspian gull,nc
+357.0,wheatear,g
+147.0,crane,nc
+238.0,iceland gull,nc
+342.0,dunnock,nc
+2.0,black-throated diver,nc
+239.0,glaucous gull,nc
+332.0,meadow pipit,nc
+3.0,great northern diver,nc
+240.0,great black-backed gull,nc
+901.0,water pipit,nc
+,european storm-petrel,nc
+256.0,little tern,nc
+336.0,grey wagtail,r
+,northern fulmar,nc
+250.0,common tern,nc
+484.0,bullfinch,nc
+18.0,manx shearwater,nc
+251.0,arctic tern,nc
+480.0,parrot crossbill,nc
+44.0,spoonbill,nc
+248.0,sandwich tern,nc
+479.0,scottish crossbill,nc
+30.0,bittern,nc
+224.0,great skua,nc
+511.0,lapland bunting,nc
+32.0,little bittern,na
+264.0,black guillemot,nc
+512.0,snow bunting,nc
+36.0,cattle egret,na
+262.0,razorbill,nc
+524.0,reed bunting,nc
+38.0,great white egret,na
+260.0,guillemot,nc
+25.0,gannet,nc
+287.0,short-eared owl,nc

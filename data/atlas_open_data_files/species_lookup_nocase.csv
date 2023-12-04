@@ -1,0 +1,466 @@
+speccode,english_name,scientific_name,taxonomic_rank
+1,red-throated diver,gavia stellata,species
+2,black-throated diver,gavia arctica,species
+3,great northern diver,gavia immer,species
+4,white-billed diver,gavia adamsii,species
+5,pied-billed grebe,podilymbus podiceps,species
+6,little grebe,tachybaptus ruficollis,species
+7,great crested grebe,podiceps cristatus,species
+8,red-necked grebe,podiceps grisegena,species
+9,slavonian grebe,podiceps auritus,species
+10,black-necked grebe,podiceps nigricollis,species
+11,black-browed albatross,thalassarche melanophris,species
+12,fulmar,fulmarus glacialis,species
+15,cory's shearwater,calonectris borealis,species
+16,great shearwater,ardenna gravis,species
+17,sooty shearwater,ardenna grisea,species
+18,manx shearwater,puffinus puffinus,species
+19,barolo shearwater,puffinus baroli,species
+22,storm petrel,hydrobates pelagicus,species
+23,leach's petrel,oceanodroma leucorhoa,species
+25,gannet,morus bassanus,species
+26,cormorant,phalacrocorax carbo,species
+27,shag,phalacrocorax aristotelis,species
+28,great white pelican,pelecanus onocrotalus,species
+30,bittern,botaurus stellaris,species
+31,american bittern,botaurus lentiginosus,species
+32,little bittern,ixobrychus minutus,species
+33,night heron,nycticorax nycticorax,species
+34,green heron,butorides virescens,species
+35,squacco heron,ardeola ralloides,species
+36,cattle egret,bubulcus ibis,species
+37,little egret,egretta garzetta,species
+38,great white egret,ardea alba,species
+39,grey heron,ardea cinerea,species
+40,purple heron,ardea purpurea,species
+42,white stork,ciconia ciconia,species
+43,glossy ibis,plegadis falcinellus,species
+44,spoonbill,platalea leucorodia,species
+45,greater flamingo,phoenicopterus roseus,species
+46,mute swan,cygnus olor,species
+47,bewick's swan,cygnus columbianus,species
+48,whooper swan,cygnus cygnus,species
+49,taiga/tundra bean goose,anser fabalis/serrirostris,species aggregate
+50,pink-footed goose,anser brachyrhynchus,species
+51,white-fronted goose,anser albifrons,species
+52,lesser white-fronted goose,anser erythropus,species
+53,greylag goose,anser anser,species
+54,snow goose,anser caerulescens,species
+55,canada goose,branta canadensis,species
+56,barnacle goose,branta leucopsis,species
+57,brent goose,branta bernicla,species
+58,red-breasted goose,branta ruficollis,species
+59,egyptian goose,alopochen aegyptiaca,species
+60,ruddy shelduck,tadorna ferruginea,species
+61,shelduck,tadorna tadorna,species
+62,wood duck,aix sponsa,species
+63,mandarin duck,aix galericulata,species
+64,wigeon,mareca penelope,species
+65,american wigeon,mareca americana,species
+66,gadwall,mareca strepera,species
+67,baikal teal,sibirionetta formosa,species
+68,teal,anas crecca,species
+69,mallard,anas platyrhynchos,species
+70,american black duck,anas rubripes,species
+71,pintail,anas acuta,species
+72,garganey,spatula querquedula,species
+73,blue-winged teal,spatula discors,species
+74,shoveler,spatula clypeata,species
+75,red-crested pochard,netta rufina,species
+76,pochard,aythya ferina,species
+77,ring-necked duck,aythya collaris,species
+78,ferruginous duck,aythya nyroca,species
+79,tufted duck,aythya fuligula,species
+80,scaup,aythya marila,species
+81,eider,somateria mollissima,species
+82,king eider,somateria spectabilis,species
+83,steller's eider,polysticta stelleri,species
+85,long-tailed duck,clangula hyemalis,species
+86,common scoter,melanitta nigra,species
+87,surf scoter,melanitta perspicillata,species
+88,velvet scoter,melanitta fusca,species
+90,barrow's goldeneye,bucephala islandica,species
+91,goldeneye,bucephala clangula,species
+92,hooded merganser,lophodytes cucullatus,species
+93,smew,mergellus albellus,species
+94,red-breasted merganser,mergus serrator,species
+95,goosander,mergus merganser,species
+96,ruddy duck,oxyura jamaicensis,species
+97,honey-buzzard,pernis apivorus,species
+98,black kite,milvus migrans,species
+99,red kite,milvus milvus,species
+100,white-tailed eagle,haliaeetus albicilla,species
+104,marsh harrier,circus aeruginosus,species
+105,hen harrier,circus cyaneus,species
+106,pallid harrier,circus macrourus,species
+107,montagu's harrier,circus pygargus,species
+108,goshawk,accipiter gentilis,species
+109,sparrowhawk,accipiter nisus,species
+110,buzzard,buteo buteo,species
+111,rough-legged buzzard,buteo lagopus,species
+113,golden eagle,aquila chrysaetos,species
+114,osprey,pandion haliaetus,species
+116,kestrel,falco tinnunculus,species
+117,american kestrel,falco sparverius,species
+118,red-footed falcon,falco vespertinus,species
+119,merlin,falco columbarius,species
+120,hobby,falco subbuteo,species
+122,saker falcon,falco cherrug,species
+123,gyrfalcon,falco rusticolus,species
+124,peregrine,falco peregrinus,species
+125,red grouse,lagopus lagopus,species
+126,ptarmigan,lagopus muta,species
+127,black grouse,lyrurus tetrix,species
+128,capercaillie,tetrao urogallus,species
+129,northern bobwhite,colinus virginianus,species
+130,red-legged partridge,alectoris rufa,species
+131,grey partridge,perdix perdix,species
+132,quail,coturnix coturnix,species
+133,pheasant,phasianus colchicus,species
+134,golden pheasant,chrysolophus pictus,species
+135,lady amherst's pheasant,chrysolophus amherstiae,species
+136,water rail,rallus aquaticus,species
+137,spotted crake,porzana porzana,species
+139,little crake,porzana parva,species
+141,corncrake,crex crex,species
+142,moorhen,gallinula chloropus,species
+145,coot,fulica atra,species
+146,american coot,fulica americana,species
+147,crane,grus grus,species
+151,great bustard,otis tarda,species
+152,oystercatcher,haematopus ostralegus,species
+153,black-winged stilt,himantopus himantopus,species
+154,avocet,recurvirostra avosetta,species
+155,stone-curlew,burhinus oedicnemus,species
+159,little ringed plover,charadrius dubius,species
+160,ringed plover,charadrius hiaticula,species
+162,killdeer,charadrius vociferus,species
+163,kentish plover,charadrius alexandrinus,species
+166,dotterel,charadrius morinellus,species
+167,golden plover,pluvialis apricaria,species
+168,grey plover,pluvialis squatarola,species
+169,sociable lapwing,vanellus gregarius,species
+171,lapwing,vanellus vanellus,species
+172,knot,calidris canutus,species
+173,sanderling,calidris alba,species
+174,semipalmated sandpiper,calidris pusilla,species
+176,little stint,calidris minuta,species
+177,temminck's stint,calidris temminckii,species
+180,white-rumped sandpiper,calidris fuscicollis,species
+181,baird's sandpiper,calidris bairdii,species
+182,pectoral sandpiper,calidris melanotos,species
+184,curlew sandpiper,calidris ferruginea,species
+185,purple sandpiper,calidris maritima,species
+186,dunlin,calidris alpina,species
+189,buff-breasted sandpiper,calidris subruficollis,species
+190,ruff,calidris pugnax,species
+191,jack snipe,lymnocryptes minimus,species
+192,snipe,gallinago gallinago,species
+195,long-billed dowitcher,limnodromus scolopaceus,species
+196,woodcock,scolopax rusticola,species
+197,black-tailed godwit,limosa limosa,species
+198,hudsonian godwit,limosa haemastica,species
+199,bar-tailed godwit,limosa lapponica,species
+202,whimbrel,numenius phaeopus,species
+203,curlew,numenius arquata,species
+204,upland sandpiper,bartramia longicauda,species
+205,spotted redshank,tringa erythropus,species
+206,redshank,tringa totanus,species
+208,greenshank,tringa nebularia,species
+209,greater yellowlegs,tringa melanoleuca,species
+210,lesser yellowlegs,tringa flavipes,species
+212,green sandpiper,tringa ochropus,species
+213,wood sandpiper,tringa glareola,species
+215,common sandpiper,actitis hypoleucos,species
+216,spotted sandpiper,actitis macularius,species
+217,turnstone,arenaria interpres,species
+218,wilson's phalarope,phalaropus tricolor,species
+219,red-necked phalarope,phalaropus lobatus,species
+220,grey phalarope,phalaropus fulicarius,species
+221,pomarine skua,stercorarius pomarinus,species
+222,arctic skua,stercorarius parasiticus,species
+223,long-tailed skua,stercorarius longicaudus,species
+224,great skua,stercorarius skua,species
+226,mediterranean gull,ichthyaetus melanocephalus,species
+227,laughing gull,leucophaeus atricilla,species
+228,franklin's gull,leucophaeus pipixcan,species
+229,little gull,hydrocoloeus minutus,species
+230,sabine's gull,xema sabini,species
+231,bonaparte's gull,chroicocephalus philadelphia,species
+232,black-headed gull,chroicocephalus ridibundus,species
+234,ring-billed gull,larus delawarensis,species
+235,common gull,larus canus,species
+236,lesser black-backed gull,larus fuscus,species
+237,herring gull,larus argentatus,species
+238,iceland gull,larus glaucoides,species
+239,glaucous gull,larus hyperboreus,species
+240,great black-backed gull,larus marinus,species
+241,ross's gull,rhodostethia rosea,species
+242,kittiwake,rissa tridactyla,species
+243,ivory gull,pagophila eburnea,species
+247,lesser crested tern,thalasseus bengalensis,species
+248,sandwich tern,thalasseus sandvicensis,species
+249,roseate tern,sterna dougallii,species
+250,common tern,sterna hirundo,species
+251,arctic tern,sterna paradisaea,species
+253,forster's tern,sterna forsteri,species
+256,little tern,sternula albifrons,species
+258,black tern,chlidonias niger,species
+259,white-winged black tern,chlidonias leucopterus,species
+260,guillemot,uria aalge,species
+261,brünnich's guillemot,uria lomvia,species
+262,razorbill,alca torda,species
+264,black guillemot,cepphus grylle,species
+265,little auk,alle alle,species
+266,puffin,fratercula arctica,species
+268,rock dove,columba livia,species
+269,stock dove,columba oenas,species
+270,woodpigeon,columba palumbus,species
+271,collared dove,streptopelia decaocto,species
+272,turtle dove,streptopelia turtur,species
+273,oriental turtle dove,streptopelia orientalis,species
+274,ring-necked parakeet,psittacula krameri,species
+275,great spotted cuckoo,clamator glandarius,species
+276,cuckoo,cuculus canorus,species
+279,barn owl,tyto alba,species
+281,eurasian eagle-owl,bubo bubo,species
+282,snowy owl,bubo scandiacus,species
+284,little owl,athene noctua,species
+285,tawny owl,strix aluco,species
+286,long-eared owl,asio otus,species
+287,short-eared owl,asio flammeus,species
+289,nightjar,caprimulgus europaeus,species
+292,common nighthawk,chordeiles minor,species
+295,swift,apus apus,species
+296,pallid swift,apus pallidus,species
+300,kingfisher,alcedo atthis,species
+305,hoopoe,upupa epops,species
+306,wryneck,jynx torquilla,species
+308,green woodpecker,picus viridis,species
+310,great spotted woodpecker,dendrocopos major,species
+311,lesser spotted woodpecker,dryobates minor,species
+315,short-toed lark,calandrella brachydactyla,species
+317,crested lark,galerida cristata,species
+318,woodlark,lullula arborea,species
+319,skylark,alauda arvensis,species
+320,shore lark,eremophila alpestris,species
+321,sand martin,riparia riparia,species
+322,swallow,hirundo rustica,species
+323,red-rumped swallow,cecropis daurica,species
+325,house martin,delichon urbicum,species
+326,richard's pipit,anthus richardi,species
+328,tawny pipit,anthus campestris,species
+329,olive-backed pipit,anthus hodgsoni,species
+330,tree pipit,anthus trivialis,species
+331,pechora pipit,anthus gustavi,species
+332,meadow pipit,anthus pratensis,species
+333,red-throated pipit,anthus cervinus,species
+334,yellow wagtail,motacilla flava,species
+336,grey wagtail,motacilla cinerea,species
+337,pied/white wagtail,motacilla alba,species
+338,waxwing,bombycilla garrulus,species
+339,dipper,cinclus cinclus,species
+340,wren,troglodytes troglodytes,species
+342,dunnock,prunella modularis,species
+345,robin,erithacus rubecula,species
+347,nightingale,luscinia megarhynchos,species
+349,bluethroat,luscinia svecica,species
+350,red-flanked bluetail,tarsiger cyanurus,species
+352,black redstart,phoenicurus ochruros,species
+353,redstart,phoenicurus phoenicurus,species
+354,whinchat,saxicola rubetra,species
+355,stonechat,saxicola rubicola,species
+357,wheatear,oenanthe oenanthe,species
+358,pied wheatear,oenanthe pleschanka,species
+360,desert wheatear,oenanthe deserti,species
+362,rock thrush,monticola saxatilis,species
+370,ring ouzel,turdus torquatus,species
+371,blackbird,turdus merula,species
+374,black-throated thrush,turdus atrogularis,species
+375,fieldfare,turdus pilaris,species
+376,song thrush,turdus philomelos,species
+377,redwing,turdus iliacus,species
+378,mistle thrush,turdus viscivorus,species
+379,american robin,turdus migratorius,species
+380,cetti's warbler,cettia cetti,species
+381,fan-tailed warbler,cisticola juncidis,species
+384,grasshopper warbler,locustella naevia,species
+385,river warbler,locustella fluviatilis,species
+386,savi's warbler,locustella luscinioides,species
+389,sedge warbler,acrocephalus schoenobaenus,species
+391,blyth's reed warbler,acrocephalus dumetorum,species
+392,marsh warbler,acrocephalus palustris,species
+393,reed warbler,acrocephalus scirpaceus,species
+394,great reed warbler,acrocephalus arundinaceus,species
+398,icterine warbler,hippolais icterina,species
+399,melodious warbler,hippolais polyglotta,species
+400,marmora's warbler,sylvia sarda,species
+401,dartford warbler,sylvia undata,species
+402,spectacled warbler,sylvia conspicillata,species
+403,subalpine/moltoni's warbler,sylvia cantillans/subalpina,species aggregate
+404,sardinian warbler,sylvia melanocephala,species
+408,barred warbler,sylvia nisoria,species
+409,lesser whitethroat,sylvia curruca,species
+410,whitethroat,sylvia communis,species
+411,garden warbler,sylvia borin,species
+412,blackcap,sylvia atricapilla,species
+414,greenish warbler,phylloscopus trochiloides,species
+415,arctic warbler,phylloscopus borealis,species
+416,pallas's warbler,phylloscopus proregulus,species
+417,yellow-browed warbler,phylloscopus inornatus,species
+418,radde's warbler,phylloscopus schwarzi,species
+419,dusky warbler,phylloscopus fuscatus,species
+420,western bonelli's warbler,phylloscopus bonelli,species
+421,wood warbler,phylloscopus sibilatrix,species
+422,chiffchaff,phylloscopus collybita,species
+423,willow warbler,phylloscopus trochilus,species
+424,goldcrest,regulus regulus,species
+425,firecrest,regulus ignicapilla,species
+426,spotted flycatcher,muscicapa striata,species
+427,red-breasted flycatcher,ficedula parva,species
+429,pied flycatcher,ficedula hypoleuca,species
+430,bearded tit,panurus biarmicus,species
+431,long-tailed tit,aegithalos caudatus,species
+432,marsh tit,poecile palustris,species
+433,willow tit,poecile montanus,species
+434,crested tit,lophophanes cristatus,species
+435,coal tit,periparus ater,species
+436,blue tit,cyanistes caeruleus,species
+437,great tit,parus major,species
+438,nuthatch,sitta europaea,species
+440,treecreeper,certhia familiaris,species
+441,short-toed treecreeper,certhia brachydactyla,species
+442,penduline tit,remiz pendulinus,species
+443,golden oriole,oriolus oriolus,species
+444,daurian/turkestan (isabelline) shrike,lanius isabellinus/phoenicuroides,species aggregate
+445,red-backed shrike,lanius collurio,species
+447,great grey shrike,lanius excubitor,species
+449,jay,garrulus glandarius,species
+450,magpie,pica pica,species
+452,chough,pyrrhocorax pyrrhocorax,species
+453,jackdaw,coloeus monedula,species
+454,rook,corvus frugilegus,species
+455,carrion crow,corvus corone,species
+456,raven,corvus corax,species
+457,starling,sturnus vulgaris,species
+458,rosy starling,pastor roseus,species
+459,house sparrow,passer domesticus,species
+461,tree sparrow,passer montanus,species
+466,chaffinch,fringilla coelebs,species
+467,brambling,fringilla montifringilla,species
+468,serin,serinus serinus,species
+470,greenfinch,chloris chloris,species
+471,goldfinch,carduelis carduelis,species
+472,siskin,spinus spinus,species
+473,linnet,linaria cannabina,species
+474,twite,linaria flavirostris,species
+475,common/lesser redpoll,acanthis flammea/cabaret,species aggregate
+476,arctic redpoll,acanthis hornemanni,species
+477,two-barred crossbill,loxia leucoptera,species
+478,common crossbill,loxia curvirostra,species
+479,scottish crossbill,loxia scotica,species
+480,parrot crossbill,loxia pytyopsittacus,species
+481,trumpeter finch,bucanetes githagineus,species
+482,common rosefinch,carpodacus erythrinus,species
+484,bullfinch,pyrrhula pyrrhula,species
+485,hawfinch,coccothraustes coccothraustes,species
+496,american redstart,setophaga ruticilla,species
+508,white-crowned sparrow,zonotrichia leucophrys,species
+509,white-throated sparrow,zonotrichia albicollis,species
+510,dark-eyed junco,junco hyemalis,species
+511,lapland bunting,calcarius lapponicus,species
+512,snow bunting,plectrophenax nivalis,species
+513,pine bunting,emberiza leucocephalos,species
+514,yellowhammer,emberiza citrinella,species
+515,cirl bunting,emberiza cirlus,species
+517,ortolan bunting,emberiza hortulana,species
+520,rustic bunting,emberiza rustica,species
+521,little bunting,emberiza pusilla,species
+524,reed bunting,emberiza schoeniclus,species
+528,corn bunting,emberiza calandra,species
+900,rock pipit,anthus petrosus,species
+901,water pipit,anthus spinoletta,species
+910,hooded crow,corvus cornix,species
+1008,balearic shearwater,puffinus mauretanicus,species
+1015,fulvous whistling duck,dendrocygna bicolor,species
+1017,swan goose,anser cygnoides,species
+1018,bar-headed goose,anser indicus,species
+1019,ross's goose,anser rossii,species
+1020,emperor goose,anser canagicus,species
+1022,muscovy duck,cairina moschata,species
+1023,falcated duck,mareca falcata,species
+1024,white-cheeked pintail,anas bahamensis,species
+1025,marbled duck,marmaronetta angustirostris,species
+1027,lesser scaup,aythya affinis,species
+1030,chukar partridge,alectoris chukar,species
+1032,american golden plover,pluvialis dominica,species
+1049,mourning dove,zenaida macroura,species
+1052,buff-bellied pipit,anthus rubescens,species
+1066,hume's warbler,phylloscopus humei,species
+1067,iberian chiffchaff,phylloscopus ibericus,species
+1070,brown shrike,lanius cristatus,species
+1078,common redpoll,acanthis flammea,species
+1079,lesser redpoll,acanthis cabaret,species
+1138,blacksmith lapwing,vanellus armatus,species
+1149,nene,branta sandvicensis,species
+1151,magpie goose,anseranas semipalmata,species
+1154,south african shelduck,tadorna cana,species
+1155,australian shelduck,tadorna tadornoides,species
+1156,paradise shelduck,tadorna variegata,species
+1157,chiloe wigeon,mareca sibilatrix,species
+1159,yellow-billed teal,anas flavirostris,species
+1160,red-billed teal,anas erythrorhyncha,species
+1161,ringed teal,callonetta leucophrys,species
+1162,maned duck,chenonetta jubata,species
+1185,black swan,cygnus atratus,species
+1190,village weaver,ploceus cucullatus,species
+1191,black-headed weaver,ploceus melanocephalus,species
+1194,chestnut teal,anas castanea,species
+1196,trumpeter swan,cygnus buccinator,species
+1197,white-faced whistling duck,dendrocygna viduata,species
+1199,green-winged teal,anas carolinensis,species
+1215,monk parakeet,myiopsitta monachus,species
+1217,zebra finch,taeniopygia guttata,species
+1248,indian peafowl,pavo cristatus,species
+1274,steppe grey shrike,lanius pallidirostris,species
+1281,siberian stonechat,saxicola maurus,species
+1282,yellow-legged gull,larus michahellis,species
+1283,caspian gull,larus cachinnans,species
+1284,american herring gull,larus smithsonianus,species
+1286,alexandrine parakeet,psittacula eupatria,species
+1287,lanner falcon,falco biarmicus,species
+1288,helmeted guineafowl,numida meleagris,species
+1289,harris's hawk,parabuteo unicinctus,species
+1291,silver pheasant,lophura nycthemera,species
+1292,cockatiel,nymphicus hollandicus,species
+1293,reeves's pheasant,syrmaticus reevesii,species
+1294,budgerigar,melopsittacus undulatus,species
+1332,eastern rosella,platycercus eximius,species
+1343,rosy-billed pochard,netta peposaca,species
+1344,new zealand scaup,aythya novaeseelandiae,species
+1345,lake duck,oxyura vittata,species
+1352,african sacred ibis,threskiornis aethiopicus,species
+1354,red-tailed hawk,buteo jamaicensis,species
+1358,sulphur-crested cockatoo,cacatua galerita,species
+1359,rosy-faced lovebird,agapornis roseicollis,species
+1377,scarlet macaw,ara macao,species
+1431,cackling goose,branta hutchinsii,species
+1437,australasian shoveler,spatula rhynchotis,species
+1469,pacific diver,gavia pacifica,species
+1530,glaucous-winged gull,larus glaucescens,species
+1535,common/scottish crossbill,loxia curvirostra/scotica,species aggregate
+1537,wilson's snipe,gallinago delicata,species
+1538,blue-and-yellow macaw,ara ararauna,species
+1559,bernier's teal,anas bernieri,species
+1563,pin-tailed whydah,vidua macroura,species
+1569,atlantic canary,serinus canaria,species
+1570,great blue heron,ardea herodias,species
+1575,cape barren goose,cereopsis novaehollandiae,species
+1578,barbary dove,streptopelia roseogrisea f. risoria,variety
+1579,java sparrow,lonchura oryzivora,species
+1582,grey parrot,psittacus erithacus,species
+1583,rock/water pipit ,anthus petrosus/spinoletta,species aggregate
+1584,white-cheeked turaco,tauraco leucotis,species
+1586,violet turaco,musophaga violacea,species
+1603,house crow,corvus splendens,species
+1663,blue-crowned parakeet,thectocercus acuticaudatus,species

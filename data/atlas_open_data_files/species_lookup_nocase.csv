@@ -40,7 +40,6 @@ speccode,english_name,scientific_name,taxonomic_rank
 46,mute swan,cygnus olor,species
 47,bewick's swan,cygnus columbianus,species
 48,whooper swan,cygnus cygnus,species
-49,taiga/tundra bean goose,anser fabalis/serrirostris,species aggregate
 50,pink-footed goose,anser brachyrhynchus,species
 51,white-fronted goose,anser albifrons,species
 52,lesser white-fronted goose,anser erythropus,species
@@ -297,7 +296,6 @@ speccode,english_name,scientific_name,taxonomic_rank
 400,marmora's warbler,sylvia sarda,species
 401,dartford warbler,sylvia undata,species
 402,spectacled warbler,sylvia conspicillata,species
-403,subalpine/moltoni's warbler,sylvia cantillans/subalpina,species aggregate
 404,sardinian warbler,sylvia melanocephala,species
 408,barred warbler,sylvia nisoria,species
 409,lesser whitethroat,sylvia curruca,species
@@ -332,7 +330,6 @@ speccode,english_name,scientific_name,taxonomic_rank
 441,short-toed treecreeper,certhia brachydactyla,species
 442,penduline tit,remiz pendulinus,species
 443,golden oriole,oriolus oriolus,species
-444,daurian/turkestan (isabelline) shrike,lanius isabellinus/phoenicuroides,species aggregate
 445,red-backed shrike,lanius collurio,species
 447,great grey shrike,lanius excubitor,species
 449,jay,garrulus glandarius,species
@@ -354,7 +351,6 @@ speccode,english_name,scientific_name,taxonomic_rank
 472,siskin,spinus spinus,species
 473,linnet,linaria cannabina,species
 474,twite,linaria flavirostris,species
-475,common/lesser redpoll,acanthis flammea/cabaret,species aggregate
 476,arctic redpoll,acanthis hornemanni,species
 477,two-barred crossbill,loxia leucoptera,species
 478,common crossbill,loxia curvirostra,species
@@ -448,7 +444,6 @@ speccode,english_name,scientific_name,taxonomic_rank
 1437,australasian shoveler,spatula rhynchotis,species
 1469,pacific diver,gavia pacifica,species
 1530,glaucous-winged gull,larus glaucescens,species
-1535,common/scottish crossbill,loxia curvirostra/scotica,species aggregate
 1537,wilson's snipe,gallinago delicata,species
 1538,blue-and-yellow macaw,ara ararauna,species
 1559,bernier's teal,anas bernieri,species
@@ -459,7 +454,6 @@ speccode,english_name,scientific_name,taxonomic_rank
 1578,barbary dove,streptopelia roseogrisea f. risoria,variety
 1579,java sparrow,lonchura oryzivora,species
 1582,grey parrot,psittacus erithacus,species
-1583,rock/water pipit ,anthus petrosus/spinoletta,species aggregate
 1584,white-cheeked turaco,tauraco leucotis,species
 1586,violet turaco,musophaga violacea,species
 1603,house crow,corvus splendens,species

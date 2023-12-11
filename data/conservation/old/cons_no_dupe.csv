@@ -1,0 +1,466 @@
+speccode,english_name,status
+1,red-throated diver,g
+2,black-throated diver,a
+3,great northern diver,a
+4,white-billed diver,g
+5,pied-billed grebe,g
+6,little grebe,g
+7,great crested grebe,g
+8,red-necked grebe,r
+9,slavonian grebe,r
+10,black-necked grebe,a
+11,black-browed albatross,g
+12,northern fulmar,a
+15,cory's shearwater,g
+16,great shearwater,g
+17,sooty shearwater,g
+18,manx shearwater,a
+19,barolo shearwater,g
+22,european storm-petrel,a
+23,leach's storm-petrel,r
+25,gannet,a
+26,cormorant,g
+27,shag,r
+28,great white pelican,g
+30,bittern,a
+31,american bittern,g
+32,little bittern,a
+33,night heron,g
+34,green heron,g
+35,squacco heron,g
+36,cattle egret,a
+37,little egret,g
+38,great white egret,a
+39,grey heron,g
+40,purple heron,g
+42,white stork,g
+43,glossy ibis,g
+44,spoonbill,a
+45,greater flamingo,g
+46,mute swan,g
+47,bewick's swan,r
+48,whooper swan,a
+49,bean goose,a
+50,pink-footed goose,a
+51,white-fronted goose,r
+52,lesser white-fronted goose,g
+53,greylag goose,a
+54,snow goose,g
+55,canada goose,g
+56,barnacle goose,a
+57,brent goose,a
+58,red-breasted goose,g
+59,egyptian goose,g
+60,ruddy shelduck,g
+61,shelduck,a
+62,wood duck,g
+63,mandarin duck,g
+64,wigeon,a
+65,american wigeon,g
+66,gadwall,a
+67,baikal teal,g
+68,teal,a
+69,mallard,a
+70,american black duck,g
+71,pintail,a
+72,garganey,a
+73,blue-winged teal,g
+74,shoveler,a
+75,red-crested pochard,g
+76,pochard,r
+77,ring-necked duck,g
+78,ferruginous duck,g
+79,tufted duck,g
+80,scaup,r
+81,eider,a
+82,king eider,g
+83,steller's eider,g
+85,long-tailed duck,r
+86,common scoter,r
+87,surf scoter,g
+88,velvet scoter,r
+90,barrow's goldeneye,g
+91,goldeneye,r
+92,hooded merganser,g
+93,smew,r
+94,red-breasted merganser,a
+95,goosander,g
+96,ruddy duck,g
+97,honey-buzzard,a
+98,black kite,g
+99,red kite,g
+100,white-tailed eagle,a
+104,marsh harrier,a
+105,hen harrier,r
+106,pallid harrier,g
+107,montagu’s harrier,r
+108,goshawk,g
+109,sparrowhawk,a
+110,buzzard,g
+111,rough-legged buzzard,g
+113,golden eagle,g
+114,osprey,a
+116,kestrel,a
+117,american kestrel,g
+118,red-footed falcon,g
+119,merlin,r
+120,hobby,g
+122,saker falcon,g
+123,gyrfalcon,g
+124,peregrine,g
+125,red grouse,g
+126,ptarmigan,r
+127,black grouse,r
+128,capercaillie,r
+129,northern bobwhite,g
+130,red-legged partridge,g
+131,grey partridge,r
+132,quail,a
+133,pheasant,g
+134,golden pheasant,g
+135,lady amherst's pheasant,g
+136,water rail,g
+137,spotted crake,a
+139,little crake,g
+141,corncrake,r
+142,moorhen,a
+145,coot,g
+146,american coot,g
+147,crane,a
+151,great bustard,g
+152,oystercatcher,a
+153,black-winged stilt,a
+154,avocet,a
+155,stone-curlew,a
+159,little ringed plover,g
+160,ringed plover,r
+162,killdeer,g
+163,kentish plover,g
+166,dotterel,r
+167,golden plover,g
+168,grey plover,a
+169,sociable lapwing,g
+171,lapwing,r
+172,knot,a
+173,sanderling,a
+174,semipalmated sandpiper,g
+176,little stint,g
+177,temminck's stint,g
+180,white-rumped sandpiper,g
+181,baird's sandpiper,g
+182,pectoral sandpiper,g
+184,curlew sandpiper,a
+185,purple sandpiper,r
+186,dunlin,r
+189,buff-breasted sandpiper,g
+190,ruff,r
+191,jack snipe,g
+192,snipe,a
+195,long-billed dowitcher,g
+196,woodcock,r
+197,black-tailed godwit,r
+198,hudsonian godwit,g
+199,bar-tailed godwit,a
+202,whimbrel,r
+203,curlew,r
+204,upland sandpiper,g
+205,spotted redshank,a
+206,redshank,a
+208,greenshank,a
+209,greater yellowlegs,g
+210,lesser yellowlegs,g
+212,green sandpiper,a
+213,wood sandpiper,a
+215,common sandpiper,a
+216,spotted sandpiper,g
+217,turnstone,a
+218,wilson's phalarope,g
+219,red-necked phalarope,r
+220,grey phalarope,g
+221,pomarine skua,g
+222,arctic skua,r
+223,long-tailed skua,g
+224,great skua,a
+226,mediterranean gull,a
+227,laughing gull,g
+228,franklin's gull,g
+229,little gull,g
+230,sabine's gull,g
+231,bonaparte's gull,g
+232,black-headed gull,a
+234,ring-billed gull,g
+235,common gull,a
+236,lesser black-backed gull,a
+237,herring gull,r
+238,iceland gull,a
+239,glaucous gull,a
+240,great black-backed gull,a
+241,ross's gull,g
+242,kittiwake,r
+243,ivory gull,g
+247,lesser crested tern,g
+248,sandwich tern,a
+249,roseate tern,r
+250,common tern,a
+251,arctic tern,a
+253,forster's tern,g
+256,little tern,a
+258,black tern,g
+259,white-winged black tern,g
+260,guillemot,a
+261,brÃ¼nnich's guillemot,g
+262,razorbill,a
+264,black guillemot,a
+265,little auk,g
+266,puffin,r
+268,rock dove,g
+269,stock dove,a
+270,woodpigeon,a
+271,collared dove,g
+272,turtle dove,r
+273,oriental turtle dove,g
+274,ring-necked parakeet,g
+275,great spotted cuckoo,g
+276,cuckoo,r
+279,barn owl,g
+281,eurasian eagle-owl,g
+282,snowy owl,g
+284,little owl,g
+285,tawny owl,a
+286,long-eared owl,g
+287,short-eared owl,a
+289,nightjar,a
+292,common nighthawk,g
+295,swift,r
+296,pallid swift,g
+300,kingfisher,g
+305,hoopoe,g
+306,wryneck,g
+308,green woodpecker,g
+310,great spotted woodpecker,g
+311,lesser spotted woodpecker,r
+315,short-toed lark,g
+317,crested lark,g
+318,woodlark,g
+319,skylark,r
+320,shorelark,a
+321,sand martin,g
+322,swallow,g
+323,red-rumped swallow,g
+325,house martin,r
+326,richard's pipit,g
+328,tawny pipit,g
+329,olive-backed pipit,g
+330,tree pipit,r
+331,pechora pipit,g
+332,meadow pipit,a
+333,red-throated pipit,g
+334,yellow wagtail,r
+336,grey wagtail,a
+337,pied/white wagtail,g
+338,waxwing,g
+339,dipper,a
+340,wren,a
+342,dunnock,a
+345,robin,g
+347,nightingale,r
+349,bluethroat,g
+350,red-flanked bluetail,g
+352,black redstart,a
+353,common redstart,a
+354,whinchat,r
+355,stonechat,g
+357,wheatear,a
+358,pied wheatear,g
+360,desert wheatear,g
+362,rock thrush,g
+370,ring ouzel,r
+371,blackbird,g
+374,black-throated thrush,g
+375,fieldfare,r
+376,song thrush,a
+377,redwing,a
+378,mistle thrush,r
+379,american robin,g
+380,cetti's warbler,g
+381,fan-tailed warbler,g
+384,grasshopper warbler,r
+385,river warbler,g
+386,savi's warbler,r
+389,sedge warbler,a
+391,blyth's reed warbler,g
+392,marsh warbler,r
+393,reed warbler,g
+394,great reed warbler,g
+398,icterine warbler,g
+399,melodious warbler,g
+400,marmora's warbler,g
+401,dartford warbler,a
+402,spectacled warbler,g
+403,subalpine/moltoni's warbler,g
+404,sardinian warbler,g
+408,barred warbler,g
+409,lesser whitethroat,g
+410,common whitethroat,a
+411,garden warbler,g
+412,blackcap,g
+414,greenish warbler,g
+415,arctic warbler,g
+416,pallas's warbler,g
+417,yellow-browed warbler,a
+418,radde's warbler,g
+419,dusky warbler,g
+420,western bonelli's warbler,g
+421,wood warbler,r
+422,chiffchaff,g
+423,willow warbler,a
+424,goldcrest,g
+425,firecrest,g
+426,spotted flycatcher,r
+427,red-breasted flycatcher,g
+429,pied flycatcher,a
+430,bearded tit,g
+431,long-tailed tit,g
+432,marsh tit,r
+433,willow tit,r
+434,crested tit,g
+435,coal tit,g
+436,blue tit,g
+437,great tit,g
+438,nuthatch,g
+440,treecreeper,g
+441,short-toed treecreeper,a
+442,penduline tit,g
+443,golden oriole,g
+444,daurian/turkestan (isabelline) shrike,g
+445,red-backed shrike,r
+447,great grey shrike,g
+449,jay,g
+450,magpie,g
+452,chough,g
+453,jackdaw,g
+454,rook,a
+455,carrion crow,g
+456,raven,g
+457,starling,r
+458,rosy starling,g
+459,house sparrow,r
+461,tree sparrow,r
+466,chaffinch,g
+467,brambling,g
+468,serin,g
+470,greenfinch,r
+471,goldfinch,g
+472,siskin,g
+473,linnet,r
+474,twite,r
+475,common/lesser redpoll,g
+476,arctic redpoll,g
+477,two-barred crossbill,g
+478,common crossbill,g
+479,scottish crossbill,a
+480,parrot crossbill,a
+481,trumpeter finch,g
+482,common rosefinch,g
+484,bullfinch,a
+485,hawfinch,r
+496,american redstart,g
+508,white-crowned sparrow,g
+509,white-throated sparrow,g
+510,dark-eyed junco,g
+511,lapland bunting,a
+512,snow bunting,a
+513,pine bunting,g
+514,yellowhammer,r
+515,cirl bunting,r
+517,ortolan bunting,g
+520,rustic bunting,g
+521,little bunting,g
+524,reed bunting,a
+528,corn bunting,r
+900,rock pipit,g
+901,water pipit,a
+910,hooded crow,g
+1008,balearic shearwater,r
+1015,fulvous whistling duck,g
+1017,swan goose,g
+1018,bar-headed goose,g
+1019,ross's goose,g
+1020,emperor goose,g
+1022,muscovy duck,g
+1023,falcated duck,g
+1024,white-cheeked pintail,g
+1025,marbled duck,g
+1027,lesser scaup,g
+1030,chukar partridge,g
+1032,american golden plover,g
+1049,mourning dove,g
+1052,buff-bellied pipit,g
+1066,hume's warbler,g
+1067,iberian chiffchaff,g
+1070,brown shrike,g
+1078,common redpoll,g
+1079,lesser redpoll,r
+1138,blacksmith lapwing,g
+1149,nene,g
+1151,magpie goose,g
+1154,south african shelduck,g
+1155,australian shelduck,g
+1156,paradise shelduck,g
+1157,chiloe wigeon,g
+1159,yellow-billed teal,g
+1160,red-billed teal,g
+1161,ringed teal,g
+1162,maned duck,g
+1185,black swan,g
+1190,village weaver,g
+1191,black-headed weaver,g
+1194,chestnut teal,g
+1196,trumpeter swan,g
+1197,white-faced whistling duck,g
+1199,green-winged teal,g
+1215,monk parakeet,g
+1217,zebra finch,g
+1248,indian peafowl,g
+1274,steppe grey shrike,g
+1281,siberian stonechat,g
+1282,yellow-legged gull,a
+1283,caspian gull,a
+1284,american herring gull,g
+1286,alexandrine parakeet,g
+1287,lanner falcon,g
+1288,helmeted guineafowl,g
+1289,harris's hawk,g
+1291,silver pheasant,g
+1292,cockatiel,g
+1293,reeves's pheasant,g
+1294,budgerigar,g
+1332,eastern rosella,g
+1343,rosy-billed pochard,g
+1344,new zealand scaup,g
+1345,lake duck,g
+1352,african sacred ibis,g
+1354,red-tailed hawk,g
+1358,sulphur-crested cockatoo,g
+1359,rosy-faced lovebird,g
+1377,scarlet macaw,g
+1431,cackling goose,g
+1437,australasian shoveler,g
+1469,pacific diver,g
+1530,glaucous-winged gull,g
+1535,common/scottish crossbill,g
+1537,wilson's snipe,g
+1538,blue-and-yellow macaw,g
+1559,bernier's teal,g
+1563,pin-tailed whydah,g
+1569,atlantic canary,g
+1570,great blue heron,g
+1575,cape barren goose,g
+1578,barbary dove,g
+1579,java sparrow,g
+1582,grey parrot,g
+1583,rock/water pipit ,g
+1584,white-cheeked turaco,g
+1586,violet turaco,g
+1603,house crow,g
+1663,blue-crowned parakeet,g

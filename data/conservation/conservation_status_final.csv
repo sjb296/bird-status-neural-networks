@@ -126,7 +126,7 @@ speccode,english_name_spec,scientific_name,status
 145,coot,fulica atra,g
 146,american coot,fulica americana,g
 147,crane,grus grus,a
-151,great bustard,otis tarda,g
+151,great bustard,otis tarda,b
 152,oystercatcher,haematopus ostralegus,a
 153,black-winged stilt,himantopus himantopus,a
 154,avocet,recurvirostra avosetta,a
@@ -134,7 +134,7 @@ speccode,english_name_spec,scientific_name,status
 159,little ringed plover,charadrius dubius,g
 160,ringed plover,charadrius hiaticula,r
 162,killdeer,charadrius vociferus,g
-163,kentish plover,charadrius alexandrinus,g
+163,kentish plover,charadrius alexandrinus,b
 166,dotterel,charadrius morinellus,r
 167,golden plover,pluvialis apricaria,g
 168,grey plover,pluvialis squatarola,a
@@ -144,7 +144,7 @@ speccode,english_name_spec,scientific_name,status
 173,sanderling,calidris alba,a
 174,semipalmated sandpiper,calidris pusilla,g
 176,little stint,calidris minuta,g
-177,temminck's stint,calidris temminckii,g
+177,temminck's stint,calidris temminckii,b
 180,white-rumped sandpiper,calidris fuscicollis,g
 181,baird's sandpiper,calidris bairdii,g
 182,pectoral sandpiper,calidris melanotos,g
@@ -204,7 +204,7 @@ speccode,english_name_spec,scientific_name,status
 251,arctic tern,sterna paradisaea,a
 253,forster's tern,sterna forsteri,g
 256,little tern,sternula albifrons,a
-258,black tern,chlidonias niger,g
+258,black tern,chlidonias niger,b
 259,white-winged black tern,chlidonias leucopterus,g
 260,guillemot,uria aalge,a
 261,brÃ¼nnich's guillemot,uria lomvia,g
@@ -223,7 +223,7 @@ speccode,english_name_spec,scientific_name,status
 276,cuckoo,cuculus canorus,r
 279,barn owl,tyto alba,g
 281,eurasian eagle-owl,bubo bubo,g
-282,snowy owl,bubo scandiacus,g
+282,snowy owl,bubo scandiacus,b
 284,little owl,athene noctua,g
 285,tawny owl,strix aluco,a
 286,long-eared owl,asio otus,g
@@ -234,7 +234,7 @@ speccode,english_name_spec,scientific_name,status
 296,pallid swift,apus pallidus,g
 300,kingfisher,alcedo atthis,g
 305,hoopoe,upupa epops,g
-306,wryneck,jynx torquilla,g
+306,wryneck,jynx torquilla,b
 308,green woodpecker,picus viridis,g
 310,great spotted woodpecker,dendrocopos major,g
 311,lesser spotted woodpecker,dryobates minor,r
@@ -329,7 +329,7 @@ speccode,english_name_spec,scientific_name,status
 440,treecreeper,certhia familiaris,g
 441,short-toed treecreeper,certhia brachydactyla,a
 442,penduline tit,remiz pendulinus,g
-443,golden oriole,oriolus oriolus,g
+443,golden oriole,oriolus oriolus,b
 445,red-backed shrike,lanius collurio,r
 447,great grey shrike,lanius excubitor,g
 449,jay,garrulus glandarius,g
@@ -345,7 +345,7 @@ speccode,english_name_spec,scientific_name,status
 461,tree sparrow,passer montanus,r
 466,chaffinch,fringilla coelebs,g
 467,brambling,fringilla montifringilla,g
-468,serin,serinus serinus,g
+468,serin,berinus serinus,b
 470,greenfinch,chloris chloris,r
 471,goldfinch,carduelis carduelis,g
 472,siskin,spinus spinus,g
